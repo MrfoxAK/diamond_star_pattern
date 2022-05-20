@@ -1,0 +1,1 @@
+# diamond_star_pattern
